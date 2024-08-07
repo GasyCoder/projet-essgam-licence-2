@@ -3,7 +3,7 @@
 Ce projet est un système de gestion de bibliothèque qui permet de gérer les membres et les livres, ainsi que les emprunts de livres par les membres. Il utilise PHP et la Programmation Orientée Objet (POO).
 
 ## Structure du Projet
-
+```
 app/
 ├── controllers/
 │ ├── MembreController.php
@@ -27,7 +27,7 @@ public/
 ├── index.php
 config/
 └── database.php
-
+```
 
 La structure du projet est la suivante :
 
